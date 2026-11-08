@@ -1,0 +1,5 @@
+Survey_2026 , RATING=4 , AGE=23
+SALES_2026,rating = 3, age = 31
+Weather_2026 , rating= 5 , AGE=19
+student_data, Rating =2, age= 22
+HEALTH_SURVEY , rating=4, Age = 28
