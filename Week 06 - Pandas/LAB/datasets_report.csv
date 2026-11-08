@@ -1,0 +1,6 @@
+dataset,rows_loaded,rows_expected,percent,status
+survey_2026,1187,1200,98.91666666666666,WARNING
+sales_2026,950,1000,95.0,WARNING
+weather_2026,890,1000,89.0,OK
+student_data,1200,1200,100.0,OVER LIMIT
+health_survey,850,1000,85.0,OK
